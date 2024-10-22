@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: AddressApp
+files:
+  addressObjects: "D:/Программирование/Собеседования/Тестовые задания/РЖД/AS_ADDR_OBJ.XML"
+  addressHierarchy: "D:/Программирование/Собеседования/Тестовые задания/РЖД/AS_ADM_HIERARCHY.XML"
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
